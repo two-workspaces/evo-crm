@@ -6,7 +6,7 @@
   },
   "services": {
     "2d46bc46-50bc-51f6-9f84-e7ca30b4c50a": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/evo-crm-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/evo-crm/main/icon.svg",
       "name": "Frontend",
       "build": {},
       "deploy": {
@@ -78,7 +78,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/evo-crm-railway",
+        "repo": "https://github.com/two-workspaces/evo-crm",
         "rootDirectory": "/gateway"
       },
       "networking": {
@@ -131,7 +131,7 @@
       }
     },
     "a87b8b74-c304-541d-b2f5-051d393c736f": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/evo-crm-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/evo-crm/main/icon.svg",
       "name": "Auth",
       "build": {},
       "deploy": {
@@ -341,7 +341,7 @@
       }
     },
     "4cd5c529-a661-533f-b925-ea8a5d65e22b": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/evo-crm-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/evo-crm/main/icon.svg",
       "name": "Auth-Worker",
       "build": {},
       "deploy": {
@@ -541,7 +541,7 @@
       }
     },
     "d78dfb3d-5dd3-5430-8bab-11d875a1dcd6": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/evo-crm-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/evo-crm/main/icon.svg",
       "name": "CRM",
       "build": {},
       "deploy": {
@@ -816,7 +816,7 @@
       }
     },
     "7b832393-3347-5511-b854-8fa88744e09a": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/evo-crm-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/evo-crm/main/icon.svg",
       "name": "CRM-Worker",
       "build": {},
       "deploy": {
@@ -1076,7 +1076,7 @@
       }
     },
     "53fcbe71-828f-5050-8a99-87a306c4ea93": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/evo-crm-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/evo-crm/main/icon.svg",
       "name": "Core",
       "build": {},
       "deploy": {
@@ -1191,7 +1191,7 @@
       }
     },
     "c91208c4-762c-5192-9866-75fff001dd1b": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/evo-crm-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/evo-crm/main/icon.svg",
       "name": "Processor",
       "build": {},
       "deploy": {
@@ -1341,7 +1341,7 @@
       }
     },
     "3bf4776b-d89e-549d-858a-d293e9aa4236": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/evo-crm-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/evo-crm/main/icon.svg",
       "name": "Bot-Runtime",
       "build": {},
       "deploy": {
@@ -1396,7 +1396,7 @@
       }
     },
     "9bfece77-bd7c-5d7b-a1d6-8962f21babc8": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/evo-crm-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/evo-crm/main/icon.svg",
       "name": "EvoFlow",
       "build": {},
       "deploy": {
@@ -1406,7 +1406,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/evo-crm-railway",
+        "repo": "https://github.com/two-workspaces/evo-crm",
         "rootDirectory": "/evoflow"
       },
       "networking": {
@@ -1532,7 +1532,7 @@
       }
     },
     "dd5cdb37-f402-50af-83bd-11c889633dfe": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/evo-crm-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/evo-crm/main/icon.svg",
       "name": "Evolution-API",
       "build": {},
       "deploy": {
@@ -1759,7 +1759,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/evo-crm-railway",
+        "repo": "https://github.com/two-workspaces/evo-crm",
         "rootDirectory": "/clickhouse"
       },
       "networking": {

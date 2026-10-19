@@ -43,7 +43,7 @@ Migrations run on boot: Auth first, then the CRM waits for Auth's health check b
 
 - [Evo CRM Community on GitHub](https://github.com/evolution-foundation/evo-crm-community)
 - [Evolution Foundation documentation](https://docs.evolutionfoundation.com.br/)
-- [Template source on GitHub](https://github.com/nomideusz/evo-crm-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/evo-crm)
 
 ### Implementation Details
 
